@@ -1,4 +1,4 @@
-#include "a2.h"
+#include "data_encrypt.h"
 int min_int(int a, int b, int c);
 
 int bitwise_xor(int value){
